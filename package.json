@@ -4,7 +4,7 @@
   "description": "",
   "main": "",
   "scripts": {
-    "start": "gulp start"
+    "start": "gulp"
   },
   "repository": {
     "type": "git",
@@ -21,7 +21,9 @@
     "gulp": "^3.9.0"
   },
   "dependencies": {
-    "request": "^2.61.0",
+    "jfs": "^0.2.6",
+    "leveldown": "^1.4.1",
+    "moniker": "^0.1.2",
     "restify": "^4.0.2"
   }
 }
