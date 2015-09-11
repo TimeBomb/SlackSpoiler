@@ -1,7 +1,7 @@
 /*jslint node: true */
 'use strict';
 
-var SERVER_PORT = 8080;
+var SERVER_PORT = 5421;
 
 require('babel/register');
 var gulp = require('gulp');
