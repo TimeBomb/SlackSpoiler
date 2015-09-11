@@ -1,0 +1,27 @@
+{
+  "name": "SlackSpoiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "start": "gulp start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TimeBomb/SlackSpoiler.git"
+  },
+  "author": "TimeBomb",
+  "license": "GPL2",
+  "bugs": {
+    "url": "https://github.com/TimeBomb/SlackSpoiler/issues"
+  },
+  "homepage": "https://github.com/TimeBomb/SlackSpoiler",
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "gulp": "^3.9.0"
+  },
+  "dependencies": {
+    "request": "^2.61.0",
+    "restify": "^4.0.2"
+  }
+}
