@@ -21,6 +21,7 @@
     "gulp": "^3.9.0"
   },
   "dependencies": {
+    "config.json": "0.0.4",
     "jfs": "^0.2.6",
     "leveldown": "^1.4.1",
     "moniker": "^0.1.2",
